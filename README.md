@@ -19,7 +19,10 @@ As of now, the so-called "Example 5 (Inverted)" is moved here, as part of this p
 
 ### Files and Diff
 There are no changes to the example's index.html file, and only minimal changes to the plugin's CSS file, colorbox.css.
-A simple diff of the plugin's CSS file and this skin's is included for convenience. It's for reference, and not necessary to use this skin.
+
+A simple diff of the plugin's CSS file and this skin's is included for convenience. It's for reference, and not necessary to use this skin. Find it in the _addl_ folder.
+
+Also in the _addl_ folder are two images that depict the impact of the CSS.
 
 ### Use and Testing
 Install the CSS file from this project into the folder where you store Colorbox's original CSS file. Be sure to make a copy of the original file before doing so.
