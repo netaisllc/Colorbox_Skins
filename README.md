@@ -10,6 +10,15 @@ to their content. Here are a few:
 ## Example 5, Inverted
 This simple skin repositions the main title bar used by the plugin in its included skin, Example 5.
 
+### Screenshots
+Here is the original Example 5 shipped with the Colorbox plugin:
+
+![Colorbox Example 5](http://www.cssian.com/colorbox/skins/example5.png "Original Example 5")
+
+Here is the inverted version contained in this project:
+
+![Colorbox Example 5 Inverted](http://www.cssian.com/colorbox/skins/example5-inverted.png "Inverted Example 5 skin")
+
 ### Background: Question 10456680 on StackOverflow
 Awhile back Nuri Akman posed a [question on SO](http://stackoverflow.com/questions/10456680/moving-colorboxs-captions-to-top-of-box) about tweaking the position of Colorbox's main image line.  I posted an answer that was accepted and ended up writing code that was useful to the questioner.
 
@@ -31,6 +40,11 @@ Install the CSS file from this project into the folder where you store Colorbox'
 ## Sheer
 This simple skin adds a semi-transparent background to the caption (title) text. The text is separately styled so that it is not subject
 to the CSS *opacity* rule that results in the transparency.
+
+###Screenshot
+Here is a shot of the skin applied to Colorbox content, using the default Colorbox CSS file (also known as Example 1):
+
+![Colorbox Sheer](http://www.cssian.com/colorbox/skins/sheer.png "Sheer skin")
 
 ### Changes Made to the Plugin
 To bring about the separate styling of the title text, both the CSS and JS of the plugin have been modified slightly. A simple diff of'the changes is included on the _addl_ folder. The diff is just for quick reference and isn't necessary to use this skin.
